@@ -32,16 +32,19 @@ int getNumberOfPeopleFromUser() {
   return getUserInput("How many people are at the party?\n");
 }
 
-double calculatePizzaArea (int pizzaDiameter) {
-  double pizzaRadius = pizzaDiameter / 2;
+double calculateCircleArea(double radius) {
   const double PI = 3.14159;
-  return PI * pow(pizzaRadius, 2.0);
+  return PI * pow(radius, 2.0);
+}
+
+double calculatePizzaArea () {
+  int pizzaDiameter = getPizzaDiameterFromUser();
+  double pizzaRadius = pizzaDiameter / 2;
+  return calculateCircleArea(pizzaRadius);
 }
 
 double calcNumSlicesPerPizza() {
-  int pizzaDiameter = getPizzaDiameterFromUser();
-  double pizzaArea = calculatePizzaArea(pizzaDiameter);
-
+  double pizzaArea = calculatePizzaArea();
   const double SLICE_AREA = 14.125;  
   double numSlicesPerPizza = pizzaArea / SLICE_AREA;
 
