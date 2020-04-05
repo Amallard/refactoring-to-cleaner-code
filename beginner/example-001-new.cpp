@@ -57,18 +57,18 @@ int calcNumPizzasNeeded(double numberOfSlicesPerPizza) {
 
 void displayResults(double numberOfSlicesPerPizza, int numPizzasNeeded) {
   cout << endl;
-	cout << "Number of slices per pizza: "  
+  cout << "Number of slices per pizza: "  
     << setprecision(1) << fixed << showpoint << numberOfSlicesPerPizza << endl;
     
-	cout << "Number of pizzas needed: "  
+  cout << "Number of pizzas needed: "  
     << numPizzasNeeded << endl << endl;
 }
 
 int main() {
-	double numberOfSlicesPerPizza = calcNumSlicesPerPizza();
+  double numberOfSlicesPerPizza = calcNumSlicesPerPizza();
   int numPizzasNeeded = calcNumPizzasNeeded(numberOfSlicesPerPizza);
   
-	displayResults(numberOfSlicesPerPizza, numPizzasNeeded);
+  displayResults(numberOfSlicesPerPizza, numPizzasNeeded);
 
-	return 0;
+  return 0;
 }
