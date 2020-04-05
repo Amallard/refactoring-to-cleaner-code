@@ -3,6 +3,7 @@
 
 * [Watch it on YouTube](https://www.youtube.com/c/PragmaticWays)
 * [Read it on PragmaticWays.com](https://www.pragmaticways.com)
+* [Join our Facebook Group](https://www.facebook.com/groups/PragmaticWaysSoftwareEngineers)
 
 ### Program requirements
 Joe’s Pizza Palace needs a program to calculate the number of slices a pizza of any size can be divided into. 
