@@ -19,3 +19,6 @@ The program should then calculate and display the number of slices per pizza and
 
 ### Notes
 This refactoring tutorial is targetted for beginners and only covers the basics of programming. While this program could be cleaned up further with more advanced programming concepts, many of those concepts have not been introducted prior to this assignment and thus are not included in this tutorial. 
+
+[View the original code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-old.cpp)
+[View the refactored code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-new.cpp)
