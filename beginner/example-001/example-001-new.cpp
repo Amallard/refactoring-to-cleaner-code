@@ -46,9 +46,7 @@ double calculatePizzaArea () {
 double calcNumSlicesPerPizza() {
   double pizzaArea = calculatePizzaArea();
   const double SLICE_AREA = 14.125;  
-  double numSlicesPerPizza = pizzaArea / SLICE_AREA;
-
-  return numSlicesPerPizza;
+  return pizzaArea / SLICE_AREA;
 }
 
 int calcNumPizzasNeeded(double numberOfSlicesPerPizza) {
