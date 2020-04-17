@@ -2,7 +2,7 @@
 ### Beginner - Example 001
 
 * [Watch it on YouTube](https://www.youtube.com/c/PragmaticWays)
-* [Read it on PragmaticWays.com](https://www.pragmaticways.com)
+* [Read it on PragmaticWays.com](https://www.pragmaticways.com/refactor-code-for-a-pizza-ordering-service/)
 * [Join our Facebook Group](https://www.facebook.com/groups/PragmaticWaysSoftwareEngineers)
 
 ### Program requirements
@@ -17,9 +17,9 @@ The program should then calculate and display the number of slices per pizza and
   - The number of slices should be fixed point and rounded to one decimal place
   - PI must be a named constant
   
-#### [View the original code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-old.cpp)
+#### ❌ [View the original code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-old.cpp)
 
-#### [View the refactored code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-new.cpp)
+#### ✅ [View the refactored code to this assignment](https://github.com/Amallard/refactoring-to-cleaner-code/blob/master/beginner/example-001/example-001-new.cpp)
 
 ### Notes
 This refactoring tutorial is targetted for beginners and only covers the basics of programming. While this program could be cleaned up further with more advanced programming concepts, many of those concepts have not been introducted prior to this assignment and thus are not included in this tutorial. 
