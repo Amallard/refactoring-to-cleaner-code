@@ -1,7 +1,7 @@
 # Refactoring to Cleaner Code with [Pragmatic Ways](https://www.pragmaticways.com)
 ### Beginner - Example 001
 
-* [Watch it on YouTube](https://www.youtube.com/c/PragmaticWays)
+* [Watch it on YouTube](https://youtu.be/IM3zOyGeRFs)
 * [Read it on PragmaticWays.com](https://www.pragmaticways.com/refactor-code-for-a-pizza-ordering-service/)
 * [Join our Facebook Group](https://www.facebook.com/groups/PragmaticWaysSoftwareEngineers)
 
